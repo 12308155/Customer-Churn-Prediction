@@ -64,14 +64,6 @@ Calculate evaluation metrics for each model:
 
 Accuracy
 
-Precision
-
-Recall
-
-F1-score
-
-ROC-AUC score
-
 Compare model performance to select the best model, which is Logistic Regression in this project.
 
 7. Accuracy Comparison
